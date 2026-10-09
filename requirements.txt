@@ -1,0 +1,4 @@
+# The application itself only uses the Python standard library.
+# This file exists purely to fetch the packager that produces the .exe.
+
+pyinstaller>=6.0
